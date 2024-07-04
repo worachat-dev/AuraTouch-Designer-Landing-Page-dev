@@ -1,6 +1,6 @@
 # AuraTouch-Designer
 
-![AuraTouch Logo](assets/img/airpod1.png)
+![AuraTouch Logo](Screenshot.png)
 
 ## Overview
 
