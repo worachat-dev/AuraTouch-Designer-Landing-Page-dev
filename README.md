@@ -100,13 +100,7 @@ We welcome contributions! Please follow these steps to contribute:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
 
-### Notes:
-
-- Ensure to replace `"https://github.com/yourusername/AuraTouch-Designer.git"` with the actual URL of your repository.
-- You can add or modify sections according to the specific needs and features of your project.
-- The project structure section is based on the files mentioned in the HTML code and might need updates if additional files or directories are present in the actual project.
 
 ## Acknowledgements
 
@@ -116,4 +110,5 @@ Inspiration and Credits: This project is inspired by the concept of accessible s
 2. https://github.com/bedimcode/responsive-landing-page-headphones
 
 Special thanks to the developers and designers who contributed to the AuraTouch project.
+```
 
