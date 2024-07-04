@@ -1,4 +1,3 @@
-```markdown
 # AuraTouch-Designer
 
 ![AuraTouch Logo](assets/img/airpod1.png)
@@ -30,7 +29,7 @@ To set up the project locally, follow these steps:
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/yourusername/AuraTouch-Designer.git
-   ```
+   
 2. **Navigate to the project directory**:
    ```sh
    cd AuraTouch-Designer
