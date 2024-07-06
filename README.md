@@ -120,5 +120,4 @@ Special thanks to the developers and designers who contributed to the AuraTouch 
 For any inquiries or issues, please contact me.!
 
 ---
-```
 
