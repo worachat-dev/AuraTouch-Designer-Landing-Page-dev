@@ -97,6 +97,10 @@ We welcome contributions! Please follow these steps to contribute:
    ```
 5. **Create a pull request**.
 
+## Authors
+
+- **Worachat W, Dev.** - *Data Science, Engineering & Full Stack Dev. 2024*
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
@@ -110,5 +114,11 @@ Inspiration and Credits: This project is inspired by the concept of accessible s
 2. https://github.com/bedimcode/responsive-landing-page-headphones
 
 Special thanks to the developers and designers who contributed to the AuraTouch project.
+
+## Contact
+
+For any inquiries or issues, please contact me.!
+
+---
 ```
 
