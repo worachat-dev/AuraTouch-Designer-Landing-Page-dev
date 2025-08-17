@@ -112,6 +112,7 @@ Inspiration and Credits: This project is inspired by the concept of accessible s
 
 1. https://github.com/ManyamSanjayKumarReddy/Responsive-Headphones-Landing-Page 
 2. https://github.com/bedimcode/responsive-landing-page-headphones
+3. My Product Landing Page: https://worachat-dev.github.io/AuraTouch-Designer-Landing-Page-dev/
 
 Special thanks to the developers and designers who contributed to the AuraTouch project.
 
